@@ -2,7 +2,7 @@
 A practical web application security lab covering OWASP Top 10, vulnerability analysis, secure coding, testing and remediation.
 Web Application Security Lab
 
-Project Overview
+Project Overview 
 
 This project focuses on understanding web application security, identifying common vulnerabilities, analyzing security risks, and recommending appropriate remediation methods.
 
